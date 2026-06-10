@@ -8,7 +8,7 @@ For Sprint 2, I aimed to fix 2-4 bugs in the VisIt repository. In particular, I
 created solutions for Bugs \#20955, \#4999, and \#17574 and found no issues for
 Bugs \#4976 and \#5213. I also looked at Bug \#5618 but was blocked by available
 hardware. In the following sections, I will describe each bug and how I worked
-with it.
+with it. The project is available [here](https://github.com/makanicb/CS410-SciVis_Sprint2)
 
 ## Bug \#20955
 
